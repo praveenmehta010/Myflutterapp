@@ -57,24 +57,30 @@ class _LoginState extends State<Login> {
                   SizedBox(
                     height: 30,
                   ),
-                  InkWell (
-                    onTap: () async {
-                      setState(() {
-                        _animatedButton = true ;
-                      });
-                      await Future.delayed(Duration(seconds: 1));
-                      Navigator.pushNamed(context, Myroute.homeRoute);
-                    },
+
+                  Material(
+                    color: Colors.deepPurple,
+                    borderRadius: BorderRadius.circular( _animatedButton ? 45 : 10),
                     
-                    child: AnimatedContainer(
-                      duration: Duration(seconds: 1),
-                      height: 45,
-                      width: _animatedButton ? 45 : 150,
-                      alignment: Alignment.center,                    
-                      child: _animatedButton ? Icon(Icons.done, color: Colors.white, ) : Text("Login", style: TextStyle(fontSize: 20, color: Colors.white, fontWeight: FontWeight.bold),),
-                      decoration: BoxDecoration(
-                       color: Colors.deepPurple,
-                       borderRadius: BorderRadius.circular( _animatedButton ? 45 : 10),
+                    child: InkWell (
+                      
+                      onTap: () async {
+                        setState(() {
+                          _animatedButton = true ;
+                        });
+                        await Future.delayed(Duration(seconds: 1));
+                        await Navigator.pushNamed(context, Myroute.homeRoute);
+                        setState(() {
+                          _animatedButton = false;
+                        });
+                      },
+                      
+                      child: AnimatedContainer(
+                        duration: Duration(seconds: 1),
+                        height: 45,
+                        width: _animatedButton ? 45 : 150,
+                        alignment: Alignment.center,                    
+                        child: _animatedButton ? Icon(Icons.done, color: Colors.white, ) : Text("Login", style: TextStyle(fontSize: 20, color: Colors.white, fontWeight: FontWeight.bold),),                        
                       ),
                     ),
                   )
