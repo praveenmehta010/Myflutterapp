@@ -20,6 +20,7 @@ class ItemWidgets extends StatelessWidget {
           "\$${item.price}",
           textScaleFactor: 2.0,
           style: TextStyle(fontWeight: FontWeight.bold, color: Colors.green),
+          
         ),
       ),
     );

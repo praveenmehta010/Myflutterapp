@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "desc": "Apple Phone 12th generation",
+            "name": "Iphone 12 Max pro",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/OnsLZyzfqlFjupSoappDLCdJyDS4Olx-PVjrKlYgAIo/rs:fit:570:706:1/g:ce/aHR0cHM6Ly9hbGFu/ZWVzcWF0YXIucWEv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MTEvYXBwbGUtaXBo/b25lLTEyLXByby1t/YXgtZ3JhcGhpdGUt/MjU2LTIucG5n",
+            "price": 999
+        },
+        {
+            "id": 2,
+            "desc": "Apple Laptop Macbook pro",
+            "name": "MacBook Pro",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/5GqVhWtRz3t9cGjG5bY7GAx-EvRytVhgU2NlmoKJlFM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zLnlp/bWcuY29tL29zL2Ny/ZWF0ci11cGxvYWRl/ZC1pbWFnZXMvMjAy/MC0xMi9kMzdlMDQ2/MC0zZWViLTExZWIt/YjdmOS00NDllODY0/YjkxMzU",
+            "price": 9999
+        },
+        {
+            "id": 3,
+            "desc": "Apple watch 12gen with Power Adapter",
+            "name": "Apple Watch series 7",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/7USpxZUdGMru4RF1xVrm2BV8xIqK6NlJe9QDVZk43TY/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zaG9w/Lmp0Z2xvYmFsLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8xMC9hcHBsZS13/YXRjaC1zZS00MG1t/LXNwYWNlLWdyZXku/anBn",
+            "price": 400
+        },
+        {
+            "id": 4,
+            "desc": "Apple TV series m14 165 inches",
+            "name": "Apple TV",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/hKNv5AFCFe0K_hBjSALCjF5HwAhL4Cm6Cj1obWhPy-o/rs:fit:1200:1174:1/g:ce/aHR0cHM6Ly93d3cu/Y2FibGV0di5jb20v/YXBwL3VwbG9hZHMv/QXBwbGVUVi00ay00/LU1pbmktMS0xNTY1/eDExNzQuanBn",
+            "price": 2500
+        },
+        {
+            "id": 5,
+            "desc": "Apple paint pen for fine painting",
+            "name": "Mac PEN",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/STa2qigIz6OLoSHzebsQ_X5Ex2xe8SSOacqMz4lUY-I/rs:fit:1024:768:1/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tLzAw/L3MvTnpZNFdERXdN/alE9L3ovdlBJQUFP/U3dFcE5jOE9KUy8k/Xzg2LkpQRw",
+            "price": 100
+        }
+    ]
+}
