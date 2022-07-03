@@ -39,6 +39,46 @@
             "color": "#544ee4",
             "image": "https://imgs.search.brave.com/STa2qigIz6OLoSHzebsQ_X5Ex2xe8SSOacqMz4lUY-I/rs:fit:1024:768:1/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tLzAw/L3MvTnpZNFdERXdN/alE9L3ovdlBJQUFP/U3dFcE5jOE9KUy8k/Xzg2LkpQRw",
             "price": 100
+        },
+        {
+            "id": 6,
+            "desc": "Apple AirTag to track your love ones ",
+            "name": "AirTag beta",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/fK78wJwxkQBXJMaEBF6xo_XctkSUVOdFBQ_VUc26Y_g/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9jZG4u/dG1vYmlsZS5jb20v/Y29udGVudC9kYW0v/dC1tb2JpbGUvZW4t/cC9hY2Nlc3Nvcmll/cy8xOTAxOTkzMjAx/NzgvMTkwMTk5MzIw/MTc4LXJpZ2h0aW1h/Z2UucG5n",
+            "price": 50
+        },
+        {
+            "id": 7,
+            "desc": "Apple Ear pods To feel the sounds with in you, with voice cancelation",
+            "name": "EarPods",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/Q6iEMsWM_PZkO9Rh7w7-ut9Xtk8Qrc1o4F1nrdOUCSo/rs:fit:1200:1001:1/g:ce/aHR0cDovL3MzLmFt/YXpvbmF3cy5jb20v/ZGlnaXRhbHRyZW5k/cy11cGxvYWRzLXBy/b2QvMjAxNi8xMi9B/cHBsZS1BaXJQb2Rz/LWtpdDEuanBn",
+            "price": 250
+        },
+        {
+            "id": 8,
+            "desc": "Apple Phone 10th generation",
+            "name": "Iphone 10 Max pro",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/0JMtcSv1Al9dAIdGAzgWC3w3FA-2re04b5H9NnSnY2s/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/cGFraXN0YW5pc3Rv/cmVzLmNvbS9kYXRh/L3RpdGFuLzk5YWYz/NDg1M2ZhZDRjMzIz/YjdmYjE3MmZlYzc0/MzUyLmpwZw",
+            "price": 700
+        },
+        {
+            "id": 9,
+            "desc": "Apple Phone 8th generation",
+            "name": "Iphone 8",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/t4Orx9INq83fyRIeIw3idw4PZRYtVw6vnCc6N2CrVDw/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5M/MWlzYW1BUXRyNnFx/Qk02cmYtaFNRSGFI/YSZwaWQ9QXBp",
+            "price": 500
+        },
+        {
+            "id": 10,
+            "desc": "Apple Macbook Air 13 inches with M1 Processor",
+            "name": "MacBook Air",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/lI-5hLXzTj1qwKM9Kc7WXu5iY3tfmzx6xPIhl0Rcyy0/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC42/SVRqeWxxSDhQbzR3/UTJ1aEhlZE5nSGFF/OCZwaWQ9QXBp",
+            "price": 7000
         }
     ]
 }
